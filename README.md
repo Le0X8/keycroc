@@ -19,4 +19,4 @@ Here is a quick guide on how to do it:
 
 ## Inject the installation payload
 
-Please follow steps 1-4 of the guide on [setting up Node.js](#setting-up-node-js) if you haven't done already.
+Please follow steps 1-4 of the guide on [setting up Node.js](#setting-up-nodejs) if you haven't done already.
